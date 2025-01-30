@@ -9,6 +9,7 @@ $ pip install requests
 $ pip install pyfiglet
 $ git clone https://github.com/bbybsod/iptracking.git
 $ ls
+$ cd iptracking
 $ python3 iptrack.py
 ```
 
@@ -22,6 +23,7 @@ $ pip install requests
 $ pip install pyfiglet
 $ git clone https://github.com/bbybsod/iptracking.git
 $ ls
+$ cd iptracking
 $ python3 iptrack.py
 ```
 # CAN RUN IN 
