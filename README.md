@@ -3,6 +3,7 @@
 ```terminal
 $ pkg update
 $ pkg upgrade
+$ pkg install git
 $ pkg install python3
 $ pip install requests
 $ pip install pyfiglet
@@ -15,6 +16,7 @@ $ python3 iptrack.py
 ```terminal
 $ sudo apt update
 $ sudo apt upgrade
+$ pkg install git
 $ sudo apt install python3
 $ pip install requests
 $ pip install pyfiglet
