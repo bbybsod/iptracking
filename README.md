@@ -1,3 +1,6 @@
+# Photo
+<img src= IMG_20250130_222242.png>
+
 # how to use 
 ### FOR TERMUX
 ```terminal
