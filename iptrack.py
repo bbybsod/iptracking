@@ -1,4 +1,5 @@
 import requests
+import pyfiglet
 
 def get_ip_geolocation(ip_address):
     
@@ -12,6 +13,12 @@ def get_ip_geolocation(ip_address):
         return None
 
 def main():
+    text = pyfiglet.figlet_format('SEAN')
+    print(text)
+    print('________________________________________')
+    print('===========TikTok : sean myxzu==========')
+    print('======Github : github.com/bbybsod=======')
+    print('========================================')
     ip_address = input("Masukkan alamat IP: ")
     geolocation_data = get_ip_geolocation(ip_address)
 
