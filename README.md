@@ -1,5 +1,6 @@
 # Photo
 <img src= IMG_20250130_222242.png>
+<img src= IMG_20250130_222305.jpg>
 
 # how to use 
 ### FOR TERMUX
